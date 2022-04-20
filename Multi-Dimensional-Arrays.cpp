@@ -1,6 +1,3 @@
-//Lab 7B
-//Programmer: Luke Tascone 
-
 #include <iostream>
 #include <string>
 using namespace std; 
